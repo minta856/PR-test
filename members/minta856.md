@@ -1,8 +1,8 @@
 # 我的个人主页
 - 姓名或昵称：Minta
 - GitHub 用户名：minta856
-- 主页仓库：https://github.com/minta856/minta856.github.io
--在线主页：https://minta856.github.io
+- 主页仓库: https://github.com/minta856/minta856.github.io
+- 在线主页: https://minta856.github.io
 
 ## 我修改了什么
 1. 修改 `_config.yml`，更新标题、描述、repository 与 author 信息。
